@@ -31,8 +31,8 @@ ENV/
 .idea/
 .vscode/
 
-# Vector DB / model artifacts (regenerate locally)
-vectordb/
+# Chroma DB / model artifacts (regenerate locally)
+chroma_db/
 *.bin
 *.pkl
 *.pt
